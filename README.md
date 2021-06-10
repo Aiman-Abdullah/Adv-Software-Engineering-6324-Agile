@@ -13,7 +13,7 @@
 10-Payment Functionality<br>
 11-Search Functionality & Retrieval<br>
 12- Profile page<br>
-13- Add user to Friend list <br>
+13- Add user to Friends list <br>
 14- Join & un-Join Clubs functionalities and more....<br>
 
 
